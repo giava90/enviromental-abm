@@ -7,4 +7,7 @@ these deficits. Both customers and firms can adjust their tolerance level for en
 tomers can also establish new relations with other suppliers, following different rules. We show that the optimal
 mitigation of deficits results if customers form unconditional supply links that may become effective in the fu-
 ture, while firms steadily improve their environmental-friendly production.
+
+You can play around with [this notebook]() to test different scenarios.
+
 This repositery contains the code to reproduce the results of [this paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403242).
