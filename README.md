@@ -8,6 +8,6 @@ tomers can also establish new relations with other suppliers, following differen
 mitigation of deficits results if customers form unconditional supply links that may become effective in the fu-
 ture, while firms steadily improve their environmental-friendly production.
 
-You can play around with [this notebook](https://github.com/giava90/enviromental-abm/blob/main/notebooks/Firms_customers_relations_with_enviromental_consciuosness.ipynb) to test different scenarios.
+You can play around with [this notebook](https://github.com/giava90/enviromental-abm/blob/main/Firms_customers_relations_with_enviromental_consciuosness.ipynb) to test different scenarios.
 
 This repositery contains the code to reproduce the results of [this paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403242).
